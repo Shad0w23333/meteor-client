@@ -3,9 +3,9 @@
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="20%"/>
 </p>
 
-<h1 align="center">Meteor Client</h1>
+<h1 align="center">Meteor 客户端</h1>
 
-<p align="center">A Minecraft Fabric Utility Mod for the latest Minecraft release.</p>
+<p align="center">适用于最新 Minecraft 版本的 Minecraft Fabric 实用模组。</p>
 
 <div align="center">
     <a href="https://ko-fi.com/meteordev"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-Fi"/></a>
