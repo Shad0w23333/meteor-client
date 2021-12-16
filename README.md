@@ -23,16 +23,16 @@
     <img src="https://circleci.com/gh/MeteorDevelopment/meteor-client/tree/master.svg?style=shield" alt="CircleCI"/>
 </div>
 
-## Usage
+## 用法
 
-### Building
+### 建造
 - Clone this repository
 - Run `./gradlew build`
 
-### Installation
-Follow guide on the [wiki](https://github.com/MeteorDevelopment/meteor-client/wiki/Installation).
+### 安装
+遵循指南 [维基](https://github.com/MeteorDevelopment/meteor-client/wiki/Installation).
 
-## Contributions
+## 贡献
 See [CONTRIBUTING.md](https://github.com/MeteorDevelopment/meteor-client/blob/master/CONTRIBUTING.md)
 
 ## Bugs and Suggestions
