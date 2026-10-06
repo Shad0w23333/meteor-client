@@ -11,6 +11,12 @@ version = project.mod_version + (System.getenv("CIRCLE_BUILD_NUM") != null ? ("-
 group = project.maven_group
 
 repositories {
+    // Author-published repository for Baritone's SimpleTweaker dependency.
+    maven {
+        name = "impact-development"
+        url = "https://impactdevelopment.github.io/maven/"
+        content { includeGroup "com.github.ImpactDevelopment" }
+    }
     maven {
 		name = "meteor-maven"
 		url = "https://maven.meteordev.org"
