@@ -14,3 +14,6 @@ logs
 *.iml
 .idea/*
 !.idea/copyright/*
+
+# Rebuilt exact-version dependencies; generated only for CI/builds.
+.ci/legacy-maven/
